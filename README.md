@@ -8,16 +8,7 @@ This repository contains my solutions to LeetCode problems that I solve while le
 
 Each problem is organized in its own folder with the solution code.
 
-## 📂 Problems Solved
 
-| # | Problem | Difficulty | Topic |
-|---|---|---|---|
-| 1 | [Two Sum](./0001-two-sum) | 🟢 Easy | Array |
-| 7 | [Reverse Integer](./0007-reverse-integer) | 🟢 Easy | Math |
-| 9 | Palindrome Number | 🟢 Easy | Math |
-| 1134 | Armstrong Number | 🟢 Easy | Math |
-| 1952 | Three Divisors | 🟢 Easy | Math |
-| 204 | Count Primes | 🟡 Medium | Number Theory |
 
 ## 🧠 Topics I'm Practicing
 
