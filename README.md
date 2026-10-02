@@ -10,7 +10,7 @@ Each problem is organized in its own folder with the solution code.
 
 
 
-## 🧠 Topics I'm Practicing
+## 🧠 Topics I'm Practicing.
 
 - Arrays
 - Mathematics
@@ -23,11 +23,11 @@ Each problem is organized in its own folder with the solution code.
 - Data Structures
 - Algorithms
 
-## 💻 Language
+## 💻 Language.
 
 - **C++**
 
-## 📈 Progress
+## 📈 Progress.
 
 I'm solving problems consistently to improve my:
 
@@ -37,7 +37,7 @@ I'm solving problems consistently to improve my:
 - Competitive programming skills
 - Coding interview preparation
 
-## 🎯 Goal
+## 🎯 Goal.
 
 > Solve problems consistently, understand the logic behind every solution, and build strong DSA fundamentals.
 
