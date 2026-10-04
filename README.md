@@ -59,4 +59,12 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Anurampranav/LeetCode07/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Anurampranav/LeetCode07/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Anurampranav/LeetCode07/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
