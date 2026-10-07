@@ -55,6 +55,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurampranav/LeetCode07/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anurampranav/LeetCode07/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
