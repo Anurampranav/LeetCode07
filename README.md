@@ -1,8 +1,8 @@
-# LeetCode Solutions 🚀
+# LeetCode Solutions .🚀
 
 My journey of solving **LeetCode problems in C++**, focusing on building strong problem-solving and DSA fundamentals.
 
-## 📌 About
+## 📌 About.
 
 This repository contains my solutions to LeetCode problems that I solve while learning and practicing Data Structures and Algorithms.
 
@@ -10,7 +10,7 @@ Each problem is organized in its own folder with the solution code.
 
 
 
-## 🧠 Topics I'm Practicing
+## 🧠 Topics I'm Practicing.
 
 - Arrays
 - Mathematics
@@ -27,7 +27,7 @@ Each problem is organized in its own folder with the solution code.
 
 - **C++**
 
-## 📈 Progress
+## 📈 Progress.
 
 I'm solving problems consistently to improve my:
 
@@ -37,7 +37,7 @@ I'm solving problems consistently to improve my:
 - Competitive programming skills
 - Coding interview preparation
 
-## 🎯 Goal
+## 🎯 Goal.
 
 > Solve problems consistently, understand the logic behind every solution, and build strong DSA fundamentals.
 
