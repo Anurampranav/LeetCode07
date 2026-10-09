@@ -59,6 +59,7 @@ I'm solving problems consistently to improve my:
 | [0053-maximum-subarray](https://github.com/Anurampranav/LeetCode07/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurampranav/LeetCode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
+| [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anurampranav/LeetCode07/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
