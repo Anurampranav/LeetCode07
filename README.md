@@ -59,6 +59,7 @@ I'm solving problems consistently to improve my:
 | [0053-maximum-subarray](https://github.com/Anurampranav/LeetCode07/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurampranav/LeetCode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
+| [0485-max-consecutive-ones](https://github.com/Anurampranav/LeetCode07/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anurampranav/LeetCode07/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Anurampranav/LeetCode07/tree/master/1672-richest-customer-wealth) |
