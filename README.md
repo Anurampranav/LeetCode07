@@ -60,6 +60,7 @@ I'm solving problems consistently to improve my:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurampranav/LeetCode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
 | [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anurampranav/LeetCode07/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,5 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anurampranav/LeetCode07/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
