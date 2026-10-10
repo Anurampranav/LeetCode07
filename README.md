@@ -61,6 +61,7 @@ I'm solving problems consistently to improve my:
 | [0053-maximum-subarray](https://github.com/Anurampranav/LeetCode07/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurampranav/LeetCode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anurampranav/LeetCode07/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anurampranav/LeetCode07/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -73,6 +74,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurampranav/LeetCode07/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ I'm solving problems consistently to improve my:
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
