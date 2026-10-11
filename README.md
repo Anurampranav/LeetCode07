@@ -70,6 +70,7 @@ I'm solving problems consistently to improve my:
 | [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anurampranav/LeetCode07/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anurampranav/LeetCode07/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +137,8 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anurampranav/LeetCode07/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
