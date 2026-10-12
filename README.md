@@ -76,6 +76,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [0001-two-sum](https://github.com/Anurampranav/LeetCode07/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ I'm solving problems consistently to improve my:
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anurampranav/LeetCode07/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
@@ -132,6 +134,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
