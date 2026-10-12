@@ -77,6 +77,7 @@ I'm solving problems consistently to improve my:
 | [0001-two-sum](https://github.com/Anurampranav/LeetCode07/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anurampranav/LeetCode07/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,4 +146,8 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anurampranav/LeetCode07/tree/master/2778-sum-of-squares-of-special-elements) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
