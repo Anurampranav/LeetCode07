@@ -64,6 +64,7 @@ I'm solving problems consistently to improve my:
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anurampranav/LeetCode07/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anurampranav/LeetCode07/tree/master/0485-max-consecutive-ones) |
+| [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anurampranav/LeetCode07/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Anurampranav/LeetCode07/tree/master/1672-richest-customer-wealth) |
@@ -79,6 +80,7 @@ I'm solving problems consistently to improve my:
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
+| [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +157,16 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
