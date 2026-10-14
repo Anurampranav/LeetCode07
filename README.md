@@ -111,6 +111,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [0050-powx-n](https://github.com/Anurampranav/LeetCode07/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +121,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anurampranav/LeetCode07/tree/master/0011-container-with-most-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurampranav/LeetCode07/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
