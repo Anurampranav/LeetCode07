@@ -165,6 +165,7 @@ I'm solving problems consistently to improve my:
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Anurampranav/LeetCode07/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
 ## Design
 |  |
