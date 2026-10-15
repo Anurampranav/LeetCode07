@@ -72,6 +72,7 @@ I'm solving problems consistently to improve my:
 | [1929-concatenation-of-array](https://github.com/Anurampranav/LeetCode07/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anurampranav/LeetCode07/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurampranav/LeetCode07/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ I'm solving problems consistently to improve my:
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,4 +171,12 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
