@@ -65,6 +65,7 @@ I'm solving problems consistently to improve my:
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anurampranav/LeetCode07/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Anurampranav/LeetCode07/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Anurampranav/LeetCode07/tree/master/0877-stone-game) |
@@ -86,6 +87,7 @@ I'm solving problems consistently to improve my:
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
@@ -117,6 +119,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurampranav/LeetCode07/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,12 +164,14 @@ I'm solving problems consistently to improve my:
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurampranav/LeetCode07/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurampranav/LeetCode07/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -176,6 +181,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
@@ -221,4 +227,12 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
