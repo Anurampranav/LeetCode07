@@ -62,6 +62,7 @@ I'm solving problems consistently to improve my:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurampranav/LeetCode07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurampranav/LeetCode07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anurampranav/LeetCode07/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anurampranav/LeetCode07/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurampranav/LeetCode07/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
@@ -114,6 +116,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurampranav/LeetCode07/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +158,7 @@ I'm solving problems consistently to improve my:
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -171,6 +175,7 @@ I'm solving problems consistently to improve my:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
@@ -212,4 +217,8 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
