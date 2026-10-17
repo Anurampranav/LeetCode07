@@ -76,6 +76,7 @@ I'm solving problems consistently to improve my:
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anurampranav/LeetCode07/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anurampranav/LeetCode07/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurampranav/LeetCode07/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurampranav/LeetCode07/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ I'm solving problems consistently to improve my:
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anurampranav/LeetCode07/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurampranav/LeetCode07/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +156,7 @@ I'm solving problems consistently to improve my:
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurampranav/LeetCode07/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurampranav/LeetCode07/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
