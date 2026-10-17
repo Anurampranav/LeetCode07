@@ -1,14 +1,14 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int> seen;
+        unordered_set<int> freq;
 
         for (int i = 0; i < nums.size(); i++) {
-            if (seen.count(nums[i])) {
+            if (freq.count(nums[i])) {
                 return true;
             }
 
-            seen.insert(nums[i]);
+            freq.insert(nums[i]);
         }
 
         return false;
