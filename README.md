@@ -85,6 +85,7 @@ I'm solving problems consistently to improve my:
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anurampranav/LeetCode07/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -104,6 +105,7 @@ I'm solving problems consistently to improve my:
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anurampranav/LeetCode07/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -205,4 +208,8 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Anurampranav/LeetCode07/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
