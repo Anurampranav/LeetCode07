@@ -122,6 +122,7 @@ I'm solving problems consistently to improve my:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anurampranav/LeetCode07/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -140,6 +141,7 @@ I'm solving problems consistently to improve my:
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anurampranav/LeetCode07/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Anurampranav/LeetCode07/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/Anurampranav/LeetCode07/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
