@@ -77,6 +77,7 @@ I'm solving problems consistently to improve my:
 | [1672-richest-customer-wealth](https://github.com/Anurampranav/LeetCode07/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anurampranav/LeetCode07/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anurampranav/LeetCode07/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anurampranav/LeetCode07/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -171,6 +172,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurampranav/LeetCode07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anurampranav/LeetCode07/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@ I'm solving problems consistently to improve my:
 | [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anurampranav/LeetCode07/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurampranav/LeetCode07/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurampranav/LeetCode07/tree/master/3727-maximum-alternating-sum-of-squares) |
