@@ -67,6 +67,7 @@ I'm solving problems consistently to improve my:
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anurampranav/LeetCode07/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anurampranav/LeetCode07/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Anurampranav/LeetCode07/tree/master/0485-max-consecutive-ones) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
@@ -93,6 +94,7 @@ I'm solving problems consistently to improve my:
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anurampranav/LeetCode07/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Anurampranav/LeetCode07/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
@@ -111,6 +113,7 @@ I'm solving problems consistently to improve my:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurampranav/LeetCode07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anurampranav/LeetCode07/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anurampranav/LeetCode07/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Anurampranav/LeetCode07/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -174,6 +177,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurampranav/LeetCode07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Anurampranav/LeetCode07/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anurampranav/LeetCode07/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anurampranav/LeetCode07/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -184,6 +188,7 @@ I'm solving problems consistently to improve my:
 | [0217-contains-duplicate](https://github.com/Anurampranav/LeetCode07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anurampranav/LeetCode07/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anurampranav/LeetCode07/tree/master/2089-find-target-indices-after-sorting-array) |
