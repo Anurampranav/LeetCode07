@@ -98,6 +98,7 @@ I'm solving problems consistently to improve my:
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Anurampranav/LeetCode07/tree/master/0705-design-hashset) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Anurampranav/LeetCode07/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anurampranav/LeetCode07/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurampranav/LeetCode07/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -120,6 +121,7 @@ I'm solving problems consistently to improve my:
 | [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Anurampranav/LeetCode07/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
 | ------- |
