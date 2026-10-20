@@ -55,7 +55,7 @@
 
 <ul>
 	<li>For <code>n = 2</code>, possible divisors are 1 and 2.</li>
-	<li>Since <code>[5, 8]</code> is already sorted, every divisor is sortable. Hence, the answer is <code>1 + 2 = 3</code>.</li>
+	<li>Since <code>[5, 8]</code> is already sorted, every divisor is sortable. Hence, the answer is . <code>1 + 2 = 3</code>.</li>
 </ul>
 </div>
 
