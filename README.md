@@ -134,6 +134,7 @@ I'm solving problems consistently to improve my:
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/Anurampranav/LeetCode07/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anurampranav/LeetCode07/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anurampranav/LeetCode07/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/3863-minimum-operations-to-sort-a-string) |
