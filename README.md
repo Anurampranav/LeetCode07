@@ -77,6 +77,7 @@ I'm solving problems consistently to improve my:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anurampranav/LeetCode07/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anurampranav/LeetCode07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Anurampranav/LeetCode07/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anurampranav/LeetCode07/tree/master/1929-concatenation-of-array) |
@@ -132,6 +133,7 @@ I'm solving problems consistently to improve my:
 | [0387-first-unique-character-in-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anurampranav/LeetCode07/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anurampranav/LeetCode07/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/3863-minimum-operations-to-sort-a-string) |
