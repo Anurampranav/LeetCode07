@@ -76,6 +76,7 @@ I'm solving problems consistently to improve my:
 | [0877-stone-game](https://github.com/Anurampranav/LeetCode07/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anurampranav/LeetCode07/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/Anurampranav/LeetCode07/tree/master/1528-shuffle-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anurampranav/LeetCode07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Anurampranav/LeetCode07/tree/master/1672-richest-customer-wealth) |
@@ -134,6 +135,7 @@ I'm solving problems consistently to improve my:
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Anurampranav/LeetCode07/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/Anurampranav/LeetCode07/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Anurampranav/LeetCode07/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anurampranav/LeetCode07/tree/master/1832-check-if-the-sentence-is-pangram) |
