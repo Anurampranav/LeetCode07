@@ -80,6 +80,7 @@ I'm solving problems consistently to improve my:
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anurampranav/LeetCode07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Anurampranav/LeetCode07/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/Anurampranav/LeetCode07/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anurampranav/LeetCode07/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anurampranav/LeetCode07/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -139,6 +140,7 @@ I'm solving problems consistently to improve my:
 | [1528-shuffle-string](https://github.com/Anurampranav/LeetCode07/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Anurampranav/LeetCode07/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/Anurampranav/LeetCode07/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anurampranav/LeetCode07/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anurampranav/LeetCode07/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/3863-minimum-operations-to-sort-a-string) |
