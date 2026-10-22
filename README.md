@@ -138,6 +138,7 @@ I'm solving problems consistently to improve my:
 | [0451-sort-characters-by-frequency](https://github.com/Anurampranav/LeetCode07/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anurampranav/LeetCode07/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Anurampranav/LeetCode07/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Anurampranav/LeetCode07/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Anurampranav/LeetCode07/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anurampranav/LeetCode07/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -334,8 +335,10 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
