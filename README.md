@@ -130,6 +130,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anurampranav/LeetCode07/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Anurampranav/LeetCode07/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Anurampranav/LeetCode07/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anurampranav/LeetCode07/tree/master/0344-reverse-string) |
