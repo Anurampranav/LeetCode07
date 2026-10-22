@@ -128,6 +128,7 @@ I'm solving problems consistently to improve my:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anurampranav/LeetCode07/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Anurampranav/LeetCode07/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anurampranav/LeetCode07/tree/master/0242-valid-anagram) |
@@ -329,4 +330,12 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Anurampranav/LeetCode07/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
