@@ -177,6 +177,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anurampranav/LeetCode07/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Anurampranav/LeetCode07/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Anurampranav/LeetCode07/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/Anurampranav/LeetCode07/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anurampranav/LeetCode07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -187,6 +188,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anurampranav/LeetCode07/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Anurampranav/LeetCode07/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
 | ------- |
