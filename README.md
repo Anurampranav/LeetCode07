@@ -93,6 +93,7 @@ I'm solving problems consistently to improve my:
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anurampranav/LeetCode07/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurampranav/LeetCode07/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anurampranav/LeetCode07/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Anurampranav/LeetCode07/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -154,6 +155,7 @@ I'm solving problems consistently to improve my:
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anurampranav/LeetCode07/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anurampranav/LeetCode07/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Anurampranav/LeetCode07/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anurampranav/LeetCode07/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
@@ -162,6 +164,7 @@ I'm solving problems consistently to improve my:
 | [0136-single-number](https://github.com/Anurampranav/LeetCode07/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Anurampranav/LeetCode07/tree/master/0338-counting-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anurampranav/LeetCode07/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anurampranav/LeetCode07/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -170,6 +173,7 @@ I'm solving problems consistently to improve my:
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Anurampranav/LeetCode07/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anurampranav/LeetCode07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,11 +283,13 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anurampranav/LeetCode07/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurampranav/LeetCode07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anurampranav/LeetCode07/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -322,6 +328,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anurampranav/LeetCode07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -367,6 +374,7 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Anurampranav/LeetCode07/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anurampranav/LeetCode07/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anurampranav/LeetCode07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
