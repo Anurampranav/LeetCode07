@@ -102,6 +102,7 @@ I'm solving problems consistently to improve my:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurampranav/LeetCode07/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Anurampranav/LeetCode07/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Anurampranav/LeetCode07/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anurampranav/LeetCode07/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anurampranav/LeetCode07/tree/master/0205-isomorphic-strings) |
@@ -135,6 +136,7 @@ I'm solving problems consistently to improve my:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anurampranav/LeetCode07/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anurampranav/LeetCode07/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anurampranav/LeetCode07/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anurampranav/LeetCode07/tree/master/0058-length-of-last-word) |
@@ -187,6 +189,7 @@ I'm solving problems consistently to improve my:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anurampranav/LeetCode07/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Anurampranav/LeetCode07/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Anurampranav/LeetCode07/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anurampranav/LeetCode07/tree/master/0066-plus-one) |
