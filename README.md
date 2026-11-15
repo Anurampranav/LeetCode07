@@ -201,6 +201,7 @@ I'm solving problems consistently to improve my:
 | [0029-divide-two-integers](https://github.com/Anurampranav/LeetCode07/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Anurampranav/LeetCode07/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anurampranav/LeetCode07/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Anurampranav/LeetCode07/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Anurampranav/LeetCode07/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/Anurampranav/LeetCode07/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurampranav/LeetCode07/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -236,6 +237,7 @@ I'm solving problems consistently to improve my:
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anurampranav/LeetCode07/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurampranav/LeetCode07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anurampranav/LeetCode07/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurampranav/LeetCode07/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -394,4 +396,8 @@ I'm solving problems consistently to improve my:
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Anurampranav/LeetCode07/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anurampranav/LeetCode07/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anurampranav/LeetCode07/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
